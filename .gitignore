@@ -1,0 +1,14 @@
+# CMake-generated files
+/build/CMakeFiles/
+/build/CMakeCache.txt
+/build/Makefile
+/build/cmake_install.cmake
+/build/compile_commands.json
+/build/InstallScripts.json
+/build/CMakeFiles
+
+# Compiled executables
+/src/exchange_main
+/build/src/exchange
+/build/tools/trader_terminal
+/build/tools/liquidity_bot
